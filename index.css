@@ -235,7 +235,7 @@ hr {
 } 
 @media screen and (max-width: 400px) {
   #misc-section {
-    height: 210%;
+    height: 250%;
   }
 } 
 
@@ -295,7 +295,7 @@ hr {
 
 @media screen and (max-width: 500px) {
   .about-container img {
-    height: 28rem;;
+    height: 18rem;;
     width: 100%;
     padding: 0
   }
