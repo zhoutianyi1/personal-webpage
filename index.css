@@ -220,7 +220,7 @@ hr {
   color: rgba(255,255,255,0.2);
 }
 
-#misc-section {
+/* #misc-section {
   height: 93.5%;
 }
 @media screen and (max-width: 500px) {
@@ -237,7 +237,7 @@ hr {
   #misc-section {
     height: 250%;
   }
-} 
+}  */
 
 #misc-section p {
   font-size: 1.5rem;
